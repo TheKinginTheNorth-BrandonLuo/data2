@@ -1,4 +1,4 @@
-This project describes work for movie recommendation system.
+## This project describes work for movie recommendation system.
 
 Movie, as a creative industry of politics, economy and culture, has been an important part of people’s life. 
 With the development of Machine Learning, many different movie recommendation systems appeared. 
